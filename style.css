@@ -1,0 +1,97 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+
+.home-area{
+    background-image: url(images/donation3.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.dark-overlay{
+    background-color:rgba(0, 0, 0, 0.433);
+    height: 600px;
+}
+.home-content{
+    text-align: center;
+    padding: 100px;
+    color: burlywood;
+    font-weight: 700;
+    font-size: 30px;
+}
+.home-text h1{
+    color: beige;
+    padding-bottom: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+   
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,burlywood);
+    padding: 17px;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+
+.header h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color:burlywood;
+}
+
+.header h2{
+    text-align: center;
+    font-size: 400;
+    margin-bottom: 20px;
+
+}
+.header p{
+    margin-bottom: 20px;
+    font-display: initial;
+    padding: 10px;
+    border: 2px solid black;
+    display:inline ;
+    width: 86px;
+
+
+}
+.header a{
+    margin-bottom: 20px;
+    }
+.header p{
+    display:inline-block;
+}
+.header a{
+    text-align: center;
+}
+.donate-plan{}
+.donate-plan h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.donate-plan p{
+    text-align: center;
+    font-size:15px ;
+    color: burlywood;
+
+}
+.our-donate{
+      background-color: aquamarine;
+      padding: 20px;
+      float: left;
+      width: 300px;
+      margin-right: 20px;
+      border-radius:5px ;
+      -webkit-border-radius:5px ;
+      -moz-border-radius:5px ;
+      -ms-border-radius:5px ;
+      -o-border-radius:5px ;
+}
+.donate h1{
+    text-align: center;
+    }
